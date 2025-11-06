@@ -17,7 +17,7 @@ def load_model_and_tokenizer():
     load_tokenizer = AutoTokenizer.from_pretrained('j-hartmann/emotion-english-distilroberta-base')
                                                 )
     load_model = AutoModelForSequenceClassification.from_pretrained('j-hartmann/emotion-english-distilroberta-base')
-                                                                    )
+                                                                    
     return load_tokenizer, load_model
 
 
