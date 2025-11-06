@@ -1,0 +1,5 @@
+ .env
+
+Utils/.streamlit/secrets.toml
+
+hf_cache/
