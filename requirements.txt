@@ -7,3 +7,4 @@ scikit-learn>=1.0.0
 supabase
 postgrest
 streamlit-option-menu
+plotly
