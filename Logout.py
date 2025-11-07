@@ -157,7 +157,7 @@ def create_account(email, password, username):
                     font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
                     font-size: 20px;
                     font-weight: 400;
-                    color: #000000;
+                    color: #88E788;
                     margin-bottom: 1rem;
                 }}
                 </style>
