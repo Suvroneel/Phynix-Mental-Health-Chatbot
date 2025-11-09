@@ -1,2 +1,2 @@
-# Phynix Mental Health Chatbot
- # BERT Mental Health Bot
+#Phynix Mental Health Chatbot
+
