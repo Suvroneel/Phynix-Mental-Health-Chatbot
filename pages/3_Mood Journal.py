@@ -102,7 +102,7 @@ with col2:
 st.markdown("<div style='margin-top: 20px;'></div>", unsafe_allow_html=True)
 
 # 10. About section
-show_bio(user_name="calcutta75")
+show_bio(user_name=st.session_state["username"])
 
 st.markdown("<div style='margin-top: 20px;'></div>", unsafe_allow_html=True)
 
