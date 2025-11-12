@@ -166,7 +166,7 @@ context_summary = "You've mentioned sleep a few times this week."
 
 ashva_insights("calcutta75", "suvroneelnathak@gmail.com")
 
-st.markdown("<div style='margin-top: 50px;'></div>", unsafe_allow_html=True)
+st.markdown("<div style='margin-top: 25px;'></div>", unsafe_allow_html=True)
 # 9. Dashboard Section
 render_custom_header("Dashboard")
 
